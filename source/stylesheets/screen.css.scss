@@ -523,9 +523,9 @@ html, body {
     padding: 2px;
     margin: -2px;
     border-radius: 4px;
-    border: 1px solid #F7E633;
+    border: 1px solid #D0F733;
     @include text-shadow(1px 1px 0 #666);
-    @include background(linear-gradient(bottom right, #F7E633 0%, #F1D32F 100%));
+    @include background(linear-gradient(bottom right, #B8F733 0%, #DAF12F 100%));
   }
 }
 
